@@ -19,7 +19,6 @@ QR PARA ACCEDER A LA REALIDAD AUMENTADA
 
 
 
-(una vez clonado este repositorio, renonmbrar a nombre_usuario.github.io) 
 
 Contenido: 
 - Ejemplo de AR.JS (con patrones) en webvr 
